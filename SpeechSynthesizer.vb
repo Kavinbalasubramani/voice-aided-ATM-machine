@@ -1,0 +1,4 @@
+﻿
+Class SpeechSynthesizer
+
+End Class
